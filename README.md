@@ -56,7 +56,9 @@ By day, I work on production-grade .NET backends (AI camera systems, music insti
 ---
 
 ## GitHub Stats
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/1amGenius/highlights)---
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/1amGenius/highlights)
+
+---
 
 ## Connect With Me
 
